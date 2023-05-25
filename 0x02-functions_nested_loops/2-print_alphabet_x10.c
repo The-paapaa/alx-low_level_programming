@@ -1,9 +1,8 @@
 #include "main.h"
-
 /**
-  * void print_alphabet_x10 - function that print alphabet 10x
+  *void print_alphabet_x10 - function that print alphabet 10x
   *
-  * RETURN: Always 0
+  *Return: always 0
   */
 
 void print_alphabet_x10(void)
