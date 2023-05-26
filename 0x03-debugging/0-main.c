@@ -1,5 +1,4 @@
 #include main.h
-
 /**
   *main - Function to test if an int is positive or negative
   *
@@ -14,4 +13,4 @@ int main(void)
 
 	positive_or_negative(i);
 	return (0);
- }
+}
